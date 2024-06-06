@@ -1,4 +1,4 @@
-<!-- ## Control Flow
+## Control Flow
 Order in which lines of code are executed in a program.
 
 # Sequential control flow
@@ -87,4 +87,4 @@ match day_number:
     case 4:
         day_name = "Thursday"
 
-print(day_name) = "Wednesday" -->
+print(day_name) = "Wednesday"
